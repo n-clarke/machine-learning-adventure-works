@@ -96,10 +96,6 @@ BikeBuyer (integer): A Boolean flag indicating whether a customer has previously
 
 * **Nathan Clarke**
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
+Microsoft for dataset files
